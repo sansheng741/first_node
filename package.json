@@ -1,0 +1,25 @@
+{
+  "name": "first_node",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansheng741/first_node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "colin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansheng741/first_node/issues"
+  },
+  "homepage": "https://github.com/sansheng741/first_node#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
